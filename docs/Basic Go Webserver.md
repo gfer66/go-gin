@@ -1,4 +1,4 @@
-Basic Go WebServer
+Basic Go WebServer using the Gin framework
 
 ```go
 package main
